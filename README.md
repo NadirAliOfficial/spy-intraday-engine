@@ -91,6 +91,10 @@ Trading involves significant risk of loss. Test on a paper account before going 
 
 
 
+## Need something like this built?
+
+This project was built by [Team NAK](https://teamnak.com). We build custom [IBKR trading bots](https://teamnak.com/ibkr-trading-bot-development) and [IBKR API integrations](https://teamnak.com/ibkr-api-development) in Python, delivered with full source code.
+
 ## License
 
 Copyright © 2026. All rights reserved.
